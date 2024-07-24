@@ -5,7 +5,7 @@
 
 using namespace std;
 
-class InchWorm {
+class Inchworm {
 public:
     static int lunchtime(int branch, int rest, int leaf) {
         int leaves_eaten = 0;
